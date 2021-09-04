@@ -5,11 +5,11 @@ Link to the weight(h5) files: https://drive.google.com/drive/folders/1MtbGBxtx2u
 
 **Output**
 
-![](images/1.PNG)
-![](images/2.PNG)<br/>
-![](images/3.PNG)<br/>
-![](images/4.PNG)<br/>
-![](images/5.PNG)<br/>
+![](images/1.png)
+![](images/2.png)<br/>
+![](images/3.png)<br/>
+![](images/4.png)<br/>
+![](images/5.png)<br/>
 
 
 
